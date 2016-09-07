@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<universe>
+  <scale>0,001</scale>  
+  <luminary>
+    <name> Sun </name>
+    <isSatellite>false</isSatellite>
+    <primaryDistance>0</primaryDistance>
+    <rotationSpeed>2192832</rotationSpeed>
+    <info>The Sun </info>
+    <diameter>13926,84</diameter>
+    <texture>Sun_Map.jpg</texture>
+    <bump>sun_b.jpg</bump>
+    <normal>sun_normal.png</normal>
+    <illuminated>false</illuminated>
+    <luminaries>
+      <luminary>
+        <name> Mercury </name>
+        <isSatellite>true</isSatellite>
+        <primaryDistance>57909000</primaryDistance>
+        <rotationSpeed>12584160</rotationSpeed>
+        <info>Mercury</info>
+        <diameter>4879,4</diameter>
+        <texture>Mercury_Map.jpg</texture>
+        <bump>Mercury_Bump.jpg</bump>
+        <normal>Mercury_Normal.jpg</normal>
+        <illuminated>true</illuminated>
+        <luminaries></luminaries>
+      </luminary>
+      <luminary>
+        <name> Venus </name>
+        <isSatellite>true</isSatellite>
+        <primaryDistance>108160000</primaryDistance>
+        <rotationSpeed>20996820</rotationSpeed>
+        <info>Venus</info>
+        <diameter>12103,6</diameter>
+        <texture>Venus_Map.jpg</texture>
+        <bump>Venus_Bump.jpg</bump>
+        <normal>Venus_Normal.jpg</normal>
+        <illuminated>true</illuminated>
+        <luminaries></luminaries>
+      </luminary>
+      <luminary>
+        <name> Earth </name>
+        <isSatellite>false</isSatellite>
+        <primaryDistance>149600000</primaryDistance>
+        <rotationSpeed>31558118,4</rotationSpeed>
+        <info>Earth</info>
+        <diameter>12756,32</diameter>
+        <texture>Earth_Map.png</texture>
+        <bump>Earth_Bump.jpg</bump>
+        <normal>Earth_Normal.png</normal>
+        <illuminated>true</illuminated>
+        <luminaries>
+          <luminary>
+            <name> Moon </name>
+            <isSatellite>true</isSatellite>
+            <primaryDistance>384405</primaryDistance>
+            <rotationSpeed>2360594,88</rotationSpeed>
+            <info>Moon</info>
+            <diameter>3476</diameter>
+            <texture>Moon_Map.jpg</texture>
+            <bump>Moon_Bump.jpg</bump>
+            <normal>Moon_Normal.jpg</normal>
+            <illuminated>true</illuminated>
+            <luminaries></luminaries>
+          </luminary>
+        </luminaries>
+      </luminary>
+      <luminary>
+        <name> Mars </name>
+        <isSatellite>false</isSatellite>
+        <primaryDistance>227990000</primaryDistance>
+        <rotationSpeed>67386816</rotationSpeed>
+        <info>Mars</info>
+        <diameter>6792,4</diameter>
+        <texture>Mars_Map.jpg</texture>
+        <bump>Mars_Bump.jpg</bump>
+        <normal>Mars_Normal.jpg</normal>
+        <illuminated>true</illuminated>
+        <luminaries>
+          <luminary>
+            <name> Phobos </name>
+            <isSatellite>true</isSatellite>
+            <primaryDistance>9378</primaryDistance>
+            <rotationSpeed>27552,96</rotationSpeed>
+            <info>Phobos</info>
+            <diameter>22,5334</diameter>
+            <texture>moontext.png</texture>
+            <bump>moontext.png</bump>
+            <normal>moontext.png</normal>
+            <illuminated>true</illuminated>
+            <luminaries></luminaries>
+          </luminary>
+        </luminaries>
+      </luminary>
+      <luminary>
+        <name> Jupiter </name>
+        <isSatellite>false</isSatellite>
+        <primaryDistance>778360000</primaryDistance>
+        <rotationSpeed>34463232</rotationSpeed>
+        <info>Jupiter</info>
+        <diameter>142984</diameter>
+        <texture>Jupiter_Map.jpg</texture>
+        <bump>Jupiter_Bump.jpg</bump>
+        <normal>Jupiter_Normal.jpg</normal>
+        <illuminated>true</illuminated>
+        <luminaries>
+          <luminary>
+            <name> Ganymed </name>
+            <isSatellite>true</isSatellite>
+            <primaryDistance>1070400</primaryDistance>
+            <rotationSpeed>618192</rotationSpeed>
+            <info>Ganymed</info>
+            <diameter>5262</diameter>
+            <texture>moontext.png</texture>
+            <bump>moontext.png</bump>
+            <normal>moontext.png</normal>
+            <illuminated>true</illuminated>
+            <luminaries></luminaries>
+          </luminary>
+        </luminaries>
+      </luminary>
+      <luminary>
+        <name> Uranus </name>
+        <isSatellite>false</isSatellite>
+        <primaryDistance>2872400000</primaryDistance>
+        <rotationSpeed>31938624</rotationSpeed>
+        <info>Uranus</info>
+        <diameter>51118</diameter>
+        <texture>Uranus_Map.jpg</texture>
+        <bump>Uranus_Bump.jpg</bump>
+        <normal>Uranus_Normal.jpg</normal>
+        <illuminated>true</illuminated>
+        <luminaries>
+          <luminary>
+            <name> Umbriel </name>
+            <isSatellite>true</isSatellite>
+            <primaryDistance>266300</primaryDistance>
+            <rotationSpeed>358056</rotationSpeed>
+            <info>Umbriel</info>
+            <diameter>1169</diameter>
+            <texture>moontext.png</texture>
+            <bump>moontext.png</bump>
+            <normal>moontext.png</normal>
+            <illuminated>true</illuminated>
+            <luminaries></luminaries>
+          </luminary>
+        </luminaries>
+      </luminary>
+      <luminary>
+        <name> Neptune </name>
+        <isSatellite>false</isSatellite>
+        <primaryDistance>4495000000</primaryDistance>
+        <rotationSpeed>31751136</rotationSpeed>
+        <info>Neptune</info>
+        <diameter>49528</diameter>
+        <texture>Neptune_Map.jpg</texture>
+        <bump>Neptune_Bump.jpg</bump>
+        <normal>Neptune_Normal.jpg</normal>
+        <illuminated>true</illuminated>
+        <luminaries>
+          <luminary>
+            <name> Triton </name>
+            <isSatellite>true</isSatellite>
+            <primaryDistance>354759</primaryDistance>
+            <rotationSpeed>507760</rotationSpeed>
+            <info>Triton</info>
+            <diameter>2707</diameter>
+            <texture>moontext.png</texture>
+            <bump>moontext.png</bump>
+            <normal>moontext.png</normal>
+            <illuminated>true</illuminated>
+            <luminaries></luminaries>
+          </luminary>
+        </luminaries>
+      </luminary>
+      <luminary>
+        <name> Saturn </name>
+        <isSatellite>false</isSatellite>
+        <primaryDistance>1433500000</primaryDistance>
+        <rotationSpeed>32666976</rotationSpeed>
+        <info>Saturn</info>
+        <diameter>120536</diameter>
+        <texture>Saturn_Map.jpg</texture>
+        <bump>Saturn_Bump.jpg</bump>
+        <normal>Saturn_Normal.jpg</normal>
+        <illuminated>true</illuminated>
+        <luminaries>
+          <luminary>
+            <name> Titan </name>
+            <isSatellite>true</isSatellite>
+            <primaryDistance>1221830</primaryDistance>
+            <rotationSpeed>1377648</rotationSpeed>
+            <info>Titan</info>
+            <diameter>5150</diameter>
+            <texture>moontext.png</texture>
+            <bump>moontext.png</bump>
+            <normal>moontext.png</normal>
+            <illuminated>true</illuminated>
+            <luminaries></luminaries>
+          </luminary>
+        </luminaries>
+      </luminary>
+
+      <luminary>
+        <name> Pluto </name>
+        <isSatellite>true</isSatellite>
+        <primaryDistance>5906400000</primaryDistance>
+        <rotationSpeed>31685472</rotationSpeed>
+        <info>Pluto</info>
+        <diameter>2310</diameter>
+        <texture>Pluto_Map.jpg</texture>
+        <bump>Pluto_Bump.jpg</bump>
+        <normal>Pluto_Normal.jpg</normal>
+        <illuminated>true</illuminated>
+        <luminaries>
+        </luminaries>
+      </luminary>
+    </luminaries>
+  </luminary>
+  <luminary>
+    <name> Skybox </name>
+    <isSatellite>true</isSatellite>
+    <primaryDistance>0</primaryDistance>
+    <rotationSpeed>0</rotationSpeed>
+    <info>none</info>
+    <diameter>13926840,00</diameter>
+    <texture>skybox.png</texture>
+    <bump>skybox.png</bump>
+    <normal>skybox.png</normal>
+    <illuminated>false</illuminated>
+    <luminaries>
+    </luminaries>
+  </luminary>
+</universe>
+
